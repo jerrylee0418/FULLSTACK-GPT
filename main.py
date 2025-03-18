@@ -1,4 +1,3 @@
-import tiktoken
-
-print(tiktoken)
-
+def alert():
+    print("warning!!!")
+alert("error detected")
